@@ -1,0 +1,14 @@
+﻿{
+  "Name": "BTModDemodder",
+  "Enabled": true,
+
+  "Version": "1.0.0",
+
+  "Author": "aaronpburke",
+  "Website": "https://github.com/aaronpburke/BTModDemodder",
+
+  "DLL": "BTModDemodder.dll",
+  "DLLEntryPoint": "BTModDemodder.BTModDemodder.Init",
+  "DependsOn": [],
+  "ConflictsWith": []
+}
